@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <paths package="com.application1.coys.assign42019stephencoy">
+        <external-path name="my_images"
+            path="Android/data/com.application1.coys.assign42019stephencoy/files/Pictures" />
+    </paths>
